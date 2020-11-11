@@ -3,10 +3,11 @@
 [![Help](http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
 [![Nightly Builds](http://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](http://nightly.odoo.com/)
 
-Odoo
+Odoo Bushido
+
 ----
 
-Odoo is a suite of web based open source business apps.
+Odoo Bushido is a suite of web based open source business apps powered by Odoo.
 
 The main Odoo Apps include an <a href="https://www.odoo.com/page/crm">Open Source CRM</a>,
 <a href="https://www.odoo.com/page/website-builder">Website Builder</a>,
